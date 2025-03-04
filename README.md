@@ -35,6 +35,9 @@ Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 | <img src="Phase1/Bilder/Direkte_Umsetzung_Generator.png" width="380"> | <img src="Phase1/Bilder/Generator_Testen_Python_UA.png" width="400"> | 
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 
+<!-- |   | <img width="500" height="300" src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png"> |   |
+|:-:|:-------------------------------------------------------------------------------------------------:|:-:| -->
+
 
 <!-- <img width="500" height="300" src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png"> -->
 <p align="center">
@@ -51,13 +54,13 @@ Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 
 #### Umsetzung Antrieb+Generator in Modellica (AKausal)
 
-| <img src="Phase2/Bilder/Direkte_Umsetzung_Antrieb.png" width="400"> | <img src="Phase2/Bilder/Direkte_Umsetzung_Generator.png" width="400"> | 
-| :------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| <img src="Phase2/Bilder/Direkte_Umsetzung_Antrieb.png" width="300"> | <img src="Phase2/Bilder/Direkte_Umsetzung_Generator.png" width="400"> | <img src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png" width="300"> |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
 
 <!-- <img width="500" height="500" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png"> -->
-<p align="center">
-  <img width="600" height="500" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
-</p>
+<!-- <p align="center">
+  <img width="400" height="300" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
+</p>  -->
 
 ### Datenbasierte Modellbildung – Identifikation
 
@@ -78,13 +81,7 @@ Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 
 #### Dynamische und Statische Verhalten eines Verbrennungsmotor 
 
-<div style="text-align: center; margin-left: -50px;">
-    <img width="300" height="300" src="Phase3/Bilder/neu_modell.png">
-</div>
-
-
-| <img src="Phase3/Bilder/vergleich.png" width="320"> | <img src="Phase3/Bilder/Drehmomente1.png" width="400"> | 
-| :------------------------------------------------------------------: | :----------------------------------------------------------------: |
-
+| <img src="Phase3/Bilder/vergleich.png" width="320"> | <img src="Phase3/Bilder/Drehmomente1.png" width="400"> | <img src="Phase3/Bilder/neu_modell.png" width="320"> |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
 
 <!-- <img width="850" height="300" src="Phase3/Bilder/neu_modell.png"> -->
