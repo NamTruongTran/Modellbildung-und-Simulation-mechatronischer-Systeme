@@ -25,19 +25,21 @@ In der ersten Phase wird die physikalisch-orientierte Modellbildung basierend au
 Das Protkoll zu dem Versuch ist unter diesem Link verfügbar: 
 [Google Drive](https://drive.google.com/file/d/1h5TW_BGzKsXgrvK_b4RTWAj3D2FF_GCN/view?usp=sharing)
 
-Einige Ergebnisse sind in folgenden Darstellungen aufgeführt:
+Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 
 #### Umsetzung Antrieb+Generator in Modellica (Kausal)
 
-| <img src="Phase1/Bilder/Direkte_Umsetzung_Antrieb.png" width="300"> | <img src="Phase1/Bilder/Antrieb_Testen_Python_ML.png" width="300"> | 
+| <img src="Phase1/Bilder/Direkte_Umsetzung_Antrieb.png" width="380"> | <img src="Phase1/Bilder/Antrieb_Testen_Python_ML.png" width="400"> | 
 | :------------------------------------------------------------------: | :----------------------------------------------------------------: |
 
-| <img src="Phase1/Bilder/Direkte_Umsetzung_Generator.png" width="300"> | <img src="Phase1/Bilder/Generator_Testen_Python_UA.png" width="300"> | 
+| <img src="Phase1/Bilder/Direkte_Umsetzung_Generator.png" width="380"> | <img src="Phase1/Bilder/Generator_Testen_Python_UA.png" width="400"> | 
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 
 
-<img width="850" height="300" src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
-
+<!-- <img width="500" height="300" src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png"> -->
+<p align="center">
+  <img width="500" height="300" src="Phase1/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
+</p>
 
 
 ### Physikalisch-orientierte Modellbildung und Simulation – akausal
@@ -45,15 +47,17 @@ Einige Ergebnisse sind in folgenden Darstellungen aufgeführt:
 In der zweiten Phase wird die physikalisch-orientierte Modellbildung ebenfalls basierend auf Basis von Differenzial-Algebraischen Gleichungen untersucht. Dabei liegt der Fokus auf eine Objektorientierte (akausale) Modellierung. Der Unterschied zur kausalen Modellierung besteht darin, dass bei der akausalen Modellierung die Ein- und Ausgänge nicht vorab festgelegt sind. Stattdessen wird die akausalen Modellierung durch seine Zustands- und Erhaltungsgleichungen beschrieben. Die Kausalität wird erst während der Lösung des Gleichungssystems bestimmt, wenn das Modell numerisch berechnet wird. Diese Berechnungen erfolgen mit den von Modelica bereitgestellten Integrationsverfahren, wie dem Euler-Verfahren oder dem DASSL-Solver, die je nach Anforderungen manuell ausgewählt werden können.
 Es wurde die gleiche Scheibläufermaschine in Modellica simuliert wie in Phase1. Ziel ist es, die Simulationswerten aus Phase1 und Phase2 zu vergleichen und die akausale Modellbilldung umzusetzen. 
 
-Einige Ergebnisse sind in folgenden Darstellungen aufgeführt:
+Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 
 #### Umsetzung Antrieb+Generator in Modellica (AKausal)
 
-| <img src="Phase2/Bilder/Direkte_Umsetzung_Antrieb.png" width="300"> | <img src="Phase2/Bilder/Direkte_Umsetzung_Generator.png" width="300"> | 
+| <img src="Phase2/Bilder/Direkte_Umsetzung_Antrieb.png" width="400"> | <img src="Phase2/Bilder/Direkte_Umsetzung_Generator.png" width="400"> | 
 | :------------------------------------------------------------------: | :----------------------------------------------------------------: |
 
-
-<img width="850" height="300" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
+<!-- <img width="500" height="500" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png"> -->
+<p align="center">
+  <img width="600" height="500" src="Phase2/Bilder/Direkte_Umsetzung_Antrieb_Generator_Testen.png">
+</p>
 
 ### Datenbasierte Modellbildung – Identifikation
 
@@ -70,5 +74,17 @@ Bei beiden Teilversuchen wird die Güte des Modells mit dem Bestimmunsmaß R² b
 Das Protkoll zu dem Versuch ist unter diesem Link verfügbar: 
 [Google Drive](https://drive.google.com/file/d/1odjTM6QrR6cDpzYTmP6d14tMWM4jksG3/view?usp=sharing)
 
-Einige Ergebnisse sind in folgenden Darstellungen aufgeführt:
+Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
 
+#### Dynamische und Statische Verhalten eines Verbrennungsmotor 
+
+<div style="text-align: center; margin-left: -50px;">
+    <img width="300" height="300" src="Phase3/Bilder/neu_modell.png">
+</div>
+
+
+| <img src="Phase3/Bilder/vergleich.png" width="320"> | <img src="Phase3/Bilder/Drehmomente1.png" width="400"> | 
+| :------------------------------------------------------------------: | :----------------------------------------------------------------: |
+
+
+<!-- <img width="850" height="300" src="Phase3/Bilder/neu_modell.png"> -->
